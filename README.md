@@ -2,7 +2,7 @@
 
 Aplicación de punto de venta (TPV) desarrollada en Python con CustomTkinter. 
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue. svg)
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.0+-green.svg)
 
 ## 🎮 Características
